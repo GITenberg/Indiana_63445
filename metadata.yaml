@@ -1,0 +1,38 @@
+_repo: Indiana_63445
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Cortazzo, Oreste
+    gutenberg_agent_id: '52448'
+    url: http://www.gutenberg.org/2009/agents/52448
+  translator:
+    agent_name: Yves, George Burnham
+    gutenberg_agent_id: '52449'
+    url: http://www.gutenberg.org/2009/agents/52449
+creator:
+  author:
+    agent_name: Sand, George
+    aliases:
+    - Dupin, Armandine Aurore Lucille
+    - Dudevant, Amandine-Aurore-Lucile
+    - Dupin, Amandine-Aurore-Lucile
+    birthdate: 1804
+    deathdate: 1876
+    gutenberg_agent_id: '851'
+    url: http://www.gutenberg.org/2009/agents/851
+    wikipedia:
+    - http://en.wikipedia.org/wiki/George_Sand
+    - https://fr.wikipedia.org/wiki/George_Sand
+description: ''
+gutenberg_issued: '2020-10-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63445'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Indiana
+url: http://www.gutenberg.org/ebooks/63445
