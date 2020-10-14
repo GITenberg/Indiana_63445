@@ -1,5 +1,5 @@
 _repo: Indiana_63445
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Cortazzo, Oreste
@@ -9,6 +9,9 @@ contributor:
     agent_name: Yves, George Burnham
     gutenberg_agent_id: '52449'
     url: http://www.gutenberg.org/2009/agents/52449
+covers:
+- cover_type: archival
+  image_path: 63445-h/images/indiana_cover.jpg
 creator:
   author:
     agent_name: Sand, George
@@ -24,6 +27,8 @@ creator:
     - http://en.wikipedia.org/wiki/George_Sand
     - https://fr.wikipedia.org/wiki/George_Sand
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63445#Indiana
 gutenberg_issued: '2020-10-12'
 gutenberg_type: Text
 identifiers:
